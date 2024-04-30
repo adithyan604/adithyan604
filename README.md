@@ -1,110 +1,126 @@
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Adithyan</a></b>
-        </samp>
-</h3>
+<div align="center">
+    <h1>Hai, I am <a href="#" target="_blank">Adithyan</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
+    <br/><br/>
+    <p>🙏🏻 Welcome to my Github profile!<br />
+        I am a <b>Fullstack developer</b> 🚀 from <b>Kerala, India</b> <img
+            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
+        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
+    <div>
+        <a href="https://twitter.com/aromalanil5" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/aromalanil" target="_blank"><img alt="LinkedIn"
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:aromalanilkannan@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+        <a href="https://medium.com/@aromalanil" target="_blank"><img alt="Medium"
+                src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+        <a href="https://www.dribbble.com/aromalanil"><img alt="Dribbble"
+                src="https://img.shields.io/badge/dribble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>
+        <a href="https://t.me/aromalanil"><img alt="Telegram"
+                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+    </div>
+</div>
 
+<div>
+    <div>
+        <h2><img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
+            What I'm up to</h2>
+        <ul>
+            <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
+            <li> 💬 Ask me about React <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
+                    width="16" />, Javascript <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
+                    width="16" /></li>
+            <li> 🎓 I'm currently learning Flutter <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
+                    width="16" /></li>
+            <li>📫 How to reach me: <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
+                <a href="mailto:adithyane94@gmail.com" target="_blank">adithyane94@gmail.com</a></li>
+            <li>👀 Take a look at <a href="https://adithyan.in/" target="_blank">My Portfolio</a></li>
+            <li>📄 Here's my <a href="https://aromalanil.in/assets/resources/resume.pdf" target="_blank">Resume</a></li>
+        </ul>
+    </div>
+    <div>
+        <h2>🧰 Languages and Tools</h2>
+        <p align="center">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
+                alt="Javascript" />&nbsp;&nbsp;&nbsp
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+                alt="React.js" width="55" />
+            <img src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter"
+                width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
+                width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
+                width="35" />&nbsp;&nbsp;&nbsp
+            <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB"
+                width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+                alt="Node.js" width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
+                width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48"
+                alt="Java" />&nbsp;&nbsp;&nbsp
+            <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48"
+                alt="Dart" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass"
+                width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
+                width="48" />&nbsp;&nbsp;&nbsp
+        </p>
+    </div>
+    <div>
+        <h2><img align="center" width="35"
+                src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
+            Repositories</h2>
+        <p align="center">
+            <a href="https://github.com/aromalanil/whatsend">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend&theme=dark" /></a>
+            <a href="https://github.com/aromalanil/get-ascii-image">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image&theme=dark" /></a>
+            <a href="https://github.com/aromalanil/markitdown">
+                <img
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=markitdown&theme=dark" /></a>
+            <a href="https://github.com/aromalanil/unchat_frontend">
+                <img
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=unchat_frontend&theme=dark" /></a>
+        </p>
+    </div>
+    <br />
+    <div>
+        <h2>⏱ My Stats
+        </h2>
+    </div>
+    <br />
+    <div>
+        <details>
+            <summary>
+                :octocat: Github Stats
+            </summary>
+            <br />
+            <p align="center">
+                <img height="160" alt="Aromal's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=aromalanil&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+                <img alt="Aromal's Github Stats" height="160"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&hide=assembly&layout=compact&theme=dark" />
+            </p>
+        </details>
+    </div>
 
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Kerala</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+</div>
 
-<p align="center">
-  <!--<a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" /> -->
- </a>
- <a href="https://linkedin.com/in/adithyan-e" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adithyan-e"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/@0xadithyan" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="hhttps://instagram.com/adithy4n_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: adithyane94@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/adithyan604/adithyan604/issues)
-
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## Use To Code
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
-
-<p align="left">
-  <a href="https://github.com/adithyan604?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/adithyan604">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyan604&theme=radical&border=7F3FBF&background=0D1117" alt="Adithyan GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/adithyan604">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithyan604&theme=radical" alt="Adithyan GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/adithyan604"><img alt="Adithyan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=adithyan604&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/adithyan604"><img alt="Adithyan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adithyan604&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Adithyan Graph](https://github-readme-activity-graph.vercel.app/graph?username=adithyan604&custom_title=Adithyan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<hr />
+</br>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=aromalanil&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
+        width="130" /><br />
+    <a href="https://www.buymeacoffee.com/aromalanil" target="_blank"><img
+            src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
+</div>
